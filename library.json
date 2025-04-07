@@ -1,0 +1,1 @@
+{"books":[{"title":"1984","author":"Богдан","available":false},{"title":"Донкіхот","author":"123","available":true}],"readers":[{"name":"111","borrowedBooks":[]},{"name":"Антон","borrowedBooks":[]},{"name":"Богдан ","borrowedBooks":[{"title":"1984","author":"Богдан","available":false}]}]}
